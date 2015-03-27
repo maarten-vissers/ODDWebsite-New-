@@ -1,0 +1,17 @@
+﻿body {
+	margin-bottom: 80px;
+}
+span{
+	color:red;
+}
+legend{
+	text-align:center;
+	}
+
+form{
+	align:center ;
+	
+}
+#login{
+	text-align:right;
+}

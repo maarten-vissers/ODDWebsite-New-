@@ -42,6 +42,15 @@
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="animate.css" />
+    <Content Include="animations.css" />
+    <Content Include="bootstrap-theme.css" />
+    <Content Include="bootstrap-theme.min.css" />
+    <Content Include="bootstrap.css" />
+    <Content Include="bootstrap.min.css" />
+    <Content Include="custom.css" />
+    <Content Include="style.css" />
+    <Content Include="Styles.css" />
     <Content Include="template.html" />
   </ItemGroup>
   <ItemGroup>
